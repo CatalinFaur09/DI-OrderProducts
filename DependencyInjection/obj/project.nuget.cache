@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQPsmIvg2iMNG84/SJhTFhfbaZ8ckKPYK0TczNevbYc3vWI+FkRMoUryVpcmhrC/aZOn8XO9dHeryHs6Aaxc+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cfaur\\source\\repos\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cfaur\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\cfaur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
